@@ -2,3 +2,14 @@ body {
   background-color: #f8e8a6;
   text-align: center;
 }
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
